@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinet508&theme=prussian)
 -->
 
-[![Linkedin: Nebyat-Ahmed](https://img.shields.io/badge/-Abinet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinet-tesfu-99a431185//)](https://www.linkedin.com/in/nebyat-ahmed-27a35123a//)
+[![Linkedin: Nebyat-Ahmed](https://img.shields.io/badge/-Nebyat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinet-tesfu-99a431185//)](https://www.linkedin.com/in/nebyat-ahmed-27a35123a//)
 [![GitHub Abinet508](https://img.shields.io/github/followers/Afiya21?label=follow&style=social)](https://github.com/Afiya21)
 
 ### Languages I Speak💻 🌐
